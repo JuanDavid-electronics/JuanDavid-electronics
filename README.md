@@ -5,6 +5,12 @@
 <image-card alt="KiCad" src="https://img.shields.io/badge/KiCad-PCB-orange?style=flat&logo=kicad&logoColor=white" ></image-card>
 <image-card alt="FPGA" src="https://img.shields.io/badge/FPGA-VHDL/Verilog-purple?style=flat" ></image-card>
 <image-card alt="IoT" src="https://img.shields.io/badge/IoT-Blynk%20%7C%20MQTT-cyan?style=flat" ></image-card>
+![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-DevKit-green?style=flat&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-PCB-orange?style=flat&logo=kicad&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-VHDL/Verilog-purple?style=flat)
+![IoT](https://img.shields.io/badge/IoT-Blynk%20%7C%20MQTT-cyan?style=flat)
+![C++](https://img.shields.io/badge/C%2B%2B-Embedded-red?style=flat&logo=c%2B%2B&logoColor=white)
 
 Estudiante de Ingeniería Electrónica (4to semestre) | Apasionado por Arduino, ESP32, FPGA, puertas lógicas, VHDL/Verilog, IoT y diseño de PCBs con KiCad.
 
