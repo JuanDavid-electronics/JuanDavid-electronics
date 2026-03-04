@@ -16,6 +16,10 @@ Estudiante de Ingeniería Electrónica (4to semestre) | Apasionado por Arduino, 
 
 Construyendo prototipos reales y soluciones embebidas remotas. Busco proyectos freelance en Workana para ganar experiencia y entregar valor técnico confiable.
 
+### Mini proyecto: secuencia de luces con ESP32
+![foto_miniproyecto](https://github.com/user-attachments/assets/a0612843-cae1-46ad-bcbd-037236d52386)
+![foto_miniproyecto2](https://github.com/user-attachments/assets/bd849c5b-3073-4d5c-a83e-0a3131c31e06)
+
 ### Habilidades clave
 - **Microcontroladores**: Arduino · ESP32 · PIC
 - **Programación**: C/C++ · MicroPython · VHDL/Verilog
