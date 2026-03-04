@@ -30,8 +30,10 @@ Construyendo prototipos reales y soluciones embebidas remotas. Busco proyectos f
 
 ¡Mira mis repos pinned abajo! Disponible para colaborar en proyectos de electrónica remota.
 
-📍 Cali, Valle del Cauca, Colombia  
-📧 juandavidmorenojurado422@gmail.com  
-🔗 Workana: 
+### ¡Contáctame!
+- Workana: 
+- Email: juandavidmorenojurado422@gmail.com
+- Disponible para proyectos remotos de electrónica, IoT y prototipos.
 
+📍 Cali, Valle del Cauca, Colombia  
 Hecho con ❤️ y mucho café ☕
