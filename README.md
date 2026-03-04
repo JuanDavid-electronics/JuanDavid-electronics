@@ -35,7 +35,7 @@ Construyendo prototipos reales y soluciones embebidas remotas. Busco proyectos f
 ¡Mira mis repos pinned abajo! Disponible para colaborar en proyectos de electrónica remota.
 
 ### ¡Contáctame!
-- Workana: 
+- Workana: https://www.workana.com/freelancer/b6f6f09021f3b2d07c5f3a2df5ac3683
 - Email: juandavidmorenojurado422@gmail.com
 - Disponible para proyectos remotos de electrónica, IoT y prototipos.
 
