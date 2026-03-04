@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Juan David Moreno Jurado 👋
 
-<!--
-**JuanDavid-electronics/JuanDavid-electronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Electrónica (4to semestre) | Apasionado por Arduino, ESP32, FPGA, puertas lógicas, VHDL/Verilog, IoT y diseño de PCBs con KiCad.
 
-Here are some ideas to get you started:
+Construyendo prototipos reales y soluciones embebidas remotas. Busco proyectos freelance en Workana para ganar experiencia y entregar valor técnico confiable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades clave
+- **Microcontroladores**: Arduino · ESP32 · PIC
+- **Programación**: C/C++ · MicroPython · VHDL/Verilog
+- **Diseño**: KiCad (PCB) · Proteus · Fritzing
+- **IoT**: Blynk · ThingSpeak · MQTT
+- **Otros**: Puertas lógicas · FPGA · Control PID · Sensores y actuadores
+
+### Próximos proyectos (pinned)
+- 🌡️ Estación meteorológica IoT con ESP32
+- 🚗 Robot seguidor de línea con PID
+- 🔌 Breakout board personalizada para ESP32 (PCB)
+
+¡Mira mis repos pinned abajo! Disponible para colaborar en proyectos de electrónica remota.
+
+📍 Cali, Valle del Cauca, Colombia  
+📧 juandavidmoreno jurado422@gmail.com  
+🔗 Workana: 
+
+Hecho con ❤️ y mucho café ☕
